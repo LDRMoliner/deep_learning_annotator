@@ -11,6 +11,8 @@ The project provides a pipeline to annotate documents using the `HiTZ/Latxa-Qwen
 
 ## 📖 Example Usage
 
+As the model was too heavy for GitHub, download it from the following [link](https://upvehueus-my.sharepoint.com/:f:/g/personal/mmolina030_ikasle_ehu_eus/IgD4ezvep7UdS6Iq4TJdvpggAZkFMV9Hi_OUma_vp5GLCvM?e=yJiIGg) and add it to the root folder.
+
 This example demonstrates how to use the fine-tuned LoRA adapter with **vLLM** to process a Basque text and extract structured metadata.
 
 ```python
