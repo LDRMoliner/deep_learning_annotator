@@ -112,6 +112,10 @@ Nahiz eta herri arrantzalea izan, Ondarroan porturik ez zegoen; itsasontziak its
 
 We evaluate our model in a test set containing 20 documents. These documents were human-annotated, which explains the little amount of instances. However, it is to be extended in the foreseeable future.
 
+![jaccard](https://github.com/LDRMoliner/deep_learning_annotator/blob/main/jaccard_comparison_grouped.png)
+
+![qwl](https://github.com/LDRMoliner/deep_learning_annotator/blob/main/qwk_comparison_grouped.png)
+
 
 
 
